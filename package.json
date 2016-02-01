@@ -15,6 +15,6 @@
   "license": "ISC",
   "dependencies": {
     "css": "^2.2.1",
-    "css-specificity": "^0.1.0",
+    "css-specificity": "^0.1.0"
   }
 }
